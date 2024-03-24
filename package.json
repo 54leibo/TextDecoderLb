@@ -1,0 +1,19 @@
+{
+  "name": "textdecoder-ib",
+  "version": "1.0.0",
+  "description": "实现一个简单的 TextDecoder, 用于不支持原生 TextDecoder 的环境，比如：微信小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/54leibo/TextDecoderLb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/54leibo/TextDecoderLb/issues"
+  },
+  "homepage": "https://github.com/54leibo/TextDecoderLb#readme"
+}
